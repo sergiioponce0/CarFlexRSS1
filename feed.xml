@@ -5,7 +5,7 @@
         <link>https://sergiioponce0.github.io/CarFlex/index.html</link>
         <description>Esta es mi pagina web CarFlex la cual esta dedicada a la venta de coches.</description>
         <language>es</language>
-        <atom:link href="https://sergiioponce0.github.io/CarFlex/index.html" rel="self" type="application/rss+xml" />
+        <atom:link href="https://sergiioponce0.github.io/CarFlex/feed.xml" rel="self" type="application/rss+xml" />
         <item>
             <title>Inicio</title>
             <link>https://sergiioponce0.github.io/CarFlex/index.html</link>
